@@ -3,7 +3,7 @@ News API App
 
 by Vue JS (include ES5, ES6), Vuetify, Vuex and Vue Router
 
-[Demo](https://nord18.github.io/news-api/)
+[Demo](https://nord18.github.io/news-api/dist/)
 
 
 ## Project setup
