@@ -1,0 +1,33 @@
+{
+  "name": "news-api-pwa",
+  "version": "0.1.0",
+  "description": "News API App by Vue",
+  "author": "Nord18 <andrey.zhilyaev@gmail.com>",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuetify": "^2.0.7",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.10.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
